@@ -1,3 +1,3 @@
 # study
 
-solrj demo
+solrj API demo
