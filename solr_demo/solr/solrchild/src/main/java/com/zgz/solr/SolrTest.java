@@ -127,6 +127,7 @@ public class SolrTest {
             e.printStackTrace();
         }
 
+
         SolrInputDocument doc = new SolrInputDocument();
         doc.addField("id","book_5");
         doc.addField("type_s","book");
