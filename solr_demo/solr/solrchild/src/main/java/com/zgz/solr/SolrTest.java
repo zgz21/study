@@ -42,7 +42,7 @@ public class SolrTest {
 
     private static Map<String,SolrClient> CLIENT_MAP = null;
 
-    private static String URL = "http://localhost:8983/solr/core2";
+    private static String URL = "http://localhost:8983/solr/core1";
 
     /*
     * start:
